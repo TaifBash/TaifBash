@@ -3,7 +3,7 @@
 <h3 align="left">Data since and analysis student at Jeddah University 👩🏻‍💻📊 </h3> 
 
 - 📫 **Taifbasheikh@gmail.com**
-- <a href="https://twitter.com/6ai00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taif_bash" height="17" width="20" /></a> **@6ai00**
+- <a href="https://www.linkedin.com/in/taif-basheikh-7a855a248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taif_bash" height="17" width="20" /></a> **Taif Basheikh**
 </p>
 
 #### Github Stats
